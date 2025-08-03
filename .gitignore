@@ -1,0 +1,59 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
+
+### Package Files ###
+*.tar.gz
+*.rar
+
+### Virtual machine crash logs ###
+hs_err_pid*
+
+### IDE specific files ###
+*.swp
+*.swo
+*~
+
+### Build tools ###
+target/
+build/
+.gradle/
+gradle-app.setting
+
+### Temporary files ###
+*.tmp
+*.temp
