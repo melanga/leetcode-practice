@@ -5,4 +5,5 @@ alwaysApply: true
 ---
 -- this is a study repository for leet code questions
 -- maintain each problem in a seperate folder
--- when i give the question create template to test my code. the class should be runnable and the class name should append 'My'. Then create the most sutiable solution with class name and a md file expalining the algorithem in detail. These three files should be in folder named by the question name and number, my solution template to implement and test my own solution, your generated optimal solution, md file containing explanation.
+-- when i give the question create template to test my code. the class should be runnable and the class name should append 'My'. Then create the most sutiable and optimal solution with class name and a md file expalining the algorithem in detail. These three files should be in folder named by the question name and number, my solution template to implement and test my own solution, your generated optimal solution, md file containing explanation.
+-- update main README.md after each problem adfition
