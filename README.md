@@ -24,6 +24,10 @@ leetcode/
 │   │   ├── MajorityElementMy.java        # 🔨 Your implementation template
 │   │   ├── MajorityElement.java          # ✅ Optimal solution
 │   │   └── README.md                     # 📚 Algorithm explanation
+│   ├── problem189_rotate_array/           # Problem folder
+│   │   ├── RotateArrayMy.java            # 🔨 Your implementation template
+│   │   ├── RotateArray.java              # ✅ Optimal solution
+│   │   └── README.md                     # 📚 Algorithm explanation
 │   └── problemXXX_problem_name/          # More problems...
 └── ...
 ```
@@ -144,6 +148,7 @@ java MajorityElement        # Optimal solution
 | # | Problem | Difficulty | Status | Key Algorithm |
 |---|---------|------------|--------|---------------|
 | 169 | [Majority Element](src/problem169_majority_element/) | 🟢 Easy | ✅ | Boyer-Moore Voting |
+| 189 | [Rotate Array](src/problem189_rotate_array/) | 🟡 Medium | ✅ | Array Reversal |
 | ... | More problems coming... | | | |
 
 ## 🎓 Learning Approach
