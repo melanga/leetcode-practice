@@ -28,6 +28,10 @@ leetcode/
 │   │   ├── RotateArrayMy.java            # 🔨 Your implementation template
 │   │   ├── RotateArray.java              # ✅ Optimal solution
 │   │   └── README.md                     # 📚 Algorithm explanation
+│   ├── problem122_best_time_to_buy_and_sell_stock_ii/  # Problem folder
+│   │   ├── BestTimeToBuyAndSellStockIIMy.java  # 🔨 Your implementation template
+│   │   ├── BestTimeToBuyAndSellStockII.java    # ✅ Optimal solution
+│   │   └── README.md                     # 📚 Algorithm explanation
 │   └── problemXXX_problem_name/          # More problems...
 └── ...
 ```
@@ -147,6 +151,7 @@ java MajorityElement        # Optimal solution
 
 | # | Problem | Difficulty | Status | Key Algorithm |
 |---|---------|------------|--------|---------------|
+| 122 | [Best Time to Buy and Sell Stock II](src/problem122_best_time_to_buy_and_sell_stock_ii/) | 🟡 Medium | ✅ | Greedy Algorithm |
 | 169 | [Majority Element](src/problem169_majority_element/) | 🟢 Easy | ✅ | Boyer-Moore Voting |
 | 189 | [Rotate Array](src/problem189_rotate_array/) | 🟡 Medium | ✅ | Array Reversal |
 | ... | More problems coming... | | | |
