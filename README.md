@@ -156,6 +156,7 @@ java MajorityElement        # Optimal solution
 | 122 | [Best Time to Buy and Sell Stock II](src/problem122_best_time_to_buy_and_sell_stock_ii/) | 🟡 Medium | ✅ | Greedy Algorithm |
 | 169 | [Majority Element](src/problem169_majority_element/) | 🟢 Easy | ✅ | Boyer-Moore Voting |
 | 189 | [Rotate Array](src/problem189_rotate_array/) | 🟡 Medium | ✅ | Array Reversal |
+| 274 | [H-Index](src/problem274_h_index/) | 🟡 Medium | ✅ | Sorting/Counting |
 | ... | More problems coming... | | | |
 
 ## 🎓 Learning Approach
